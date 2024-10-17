@@ -2,6 +2,6 @@ Project portfolio
 
 - **React**
 - **React Router**
-- **Sass**: препроцессор CSS
+- **Sass**
 
 [DEMO](https://repishnynikita.github.io/)
